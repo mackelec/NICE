@@ -1,2 +1,2 @@
 # NICE
-Nissan Inverter CAN ev-computer
+Nissan Inverter CAN Ev-computer
