@@ -9,3 +9,12 @@ Stm32F1xx has had several Arduino cores developed over the years.  While I do li
 
     https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
  
+### BootLoader.
+
+No additional bootloader is required.  Stm factory bootloaders is all that is required.
+Uploading can be done by :
+ - Serial.
+ - STlink.
+ - future option - OTA via esp8266
+ 
+ 
