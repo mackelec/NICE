@@ -23,10 +23,10 @@ EV Controller board suitable for ECU and Body Computer for CAN controlled invert
  * PWM output specifically for LEAF DC-DC converter control.
  * PWM output specifically for LEAF HOT WATER Pump control.
  * Analogue Inputs
-  * Two 0-5V inputs for Throttle.
-  * Two Thermistor inputs.
-  * One 0-20mA input 
-  * 12 volt (Battery) sense.
+   ** Two 0-5V inputs for Throttle.
+   ** Two Thermistor inputs.
+   ** One 0-20mA input 
+   ** 12 volt (Battery) sense.
  * provision for ESP8266
  
 
