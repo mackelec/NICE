@@ -14,6 +14,7 @@ EV Controller board suitable for ECU and Body Computer for CAN controlled invert
 
  * STM32F107 processor
  * Programmed under the Arduino IDE (stm32Duino)
+ * AMPSEAL 23 and 35 connectors.
  * Two CAN bus ports.
  * 14 Digital inputs (12v)
  * 14 Digital Outputs (12v) 
